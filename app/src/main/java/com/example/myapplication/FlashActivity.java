@@ -23,4 +23,8 @@ public class FlashActivity extends AppCompatActivity {
             }
         },2500);
     }
+
+    private void Loggin() {
+
+    }
 }
